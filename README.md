@@ -1,4 +1,1 @@
-# hello-world
-Just another testaus
-
-Tämä on README.md tiedosto.
+README-tiedosto eli Lueminut-tiedosto on tietokonejärjestelmässä tiedosto, joka sisältää tietoja hakemiston tai arkiston muista tiedostoista. Tällainen aputiedosto sisältyy usein ohjelmistojen jakelupaketteihin. Se on yleensä tekstitiedosto, nimellä LUEMINUT.TXT, README.TXT, README.1ST, READ.ME tai yksinkertaisesti README.[1] Jotkut Microsoft Windows -ohjelmistot saattavat joskus sisältää README.WRI, README.RTF tai README.DOC -nimisenkin tiedoston. Tämä nimi on valittu, jotta käyttäjä huomaisi tiedoston helposti ja avaisi sen luettavakseen. Nimi on perinteisesti kirjoitettu isoilla kirjaimilla, jotta ympäristöt, jotka käyttävät ASCIIbetical -järjestämistä näyttäisivät tiedoston mahdollisimman lähellä hakemistolistauksen alkua (isot kirjaimet näkyvät ASCIIbetical-järjestelyssä ennen pieniä kirjaimia).
